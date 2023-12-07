@@ -5,8 +5,8 @@ function Home() {
     <div>
       <h1>Bia</h1>
       <p>
-        Eu estava aqui estudando, fazendo o curso, sabe? Mas sempre com você na
-        cabeça.
+        Eu estava aqui estudando, fazendo o curso, sabe? Mas sempre com{" "}
+        <b>você</b> na cabeça.
       </p>
       <p>
         E então chegou essa determinada fase do curso onde foi pedido que a
@@ -19,7 +19,4 @@ function Home() {
   );
 }
 
-function teste() {
-  console.log("indentacao errada");
-}
 export default Home;
